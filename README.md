@@ -1,1 +1,1 @@
-# BIT-JAVA
+# BIT-JAVA Projects and HomeWorks
